@@ -58,14 +58,13 @@
     "ui",
     "view"
   ],
-  "homepage": "https://github.com/samdenty99/console-feed",
+  "homepage": "https://github.com/KusStar/console-feed-node-transform",
   "repository": {
     "type": "git",
-    "url": "https://github.com/samdenty99/console-feed.git"
+    "url": "https://github.com/KusStar/console-feed-node-transform.git"
   },
   "bugs": {
-    "url": "https://github.com/samdenty99/console-feed/issues"
+    "url": "https://github.com/KusStar/console-feed-node-transform/issues"
   },
-  "author": "Sam Denty <samddenty@gmail.com> (http://github.com/samdenty99)",
   "license": "MIT"
 }
