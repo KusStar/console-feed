@@ -1,9 +1,9 @@
 {
   "name": "console-feed-node-transform",
-  "version": "3.2.2",
+  "version": "3.2.3",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "description": "A React component that displays console logs from the current page, an iframe or transported across a server",
+  "description": "Only Encode/Decode from console-feed",
   "scripts": {
     "build": "rm -rf lib && tsc -p ./tsconfig.build.json --declaration",
     "clean": "nwb clean-module && nwb clean-demo",
