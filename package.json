@@ -1,6 +1,6 @@
 {
   "name": "console-feed-node-transform",
-  "version": "3.2.3",
+  "version": "3.3.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "description": "Only Encode/Decode from console-feed",
